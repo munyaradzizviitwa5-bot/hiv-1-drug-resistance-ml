@@ -1,0 +1,25 @@
+# Dataset Information
+
+This directory is intended for storing datasets and data-related documentation used in the HIV-1 drug-resistance machine learning project.
+
+## Dataset Source
+
+The project uses HIV-1 genotype–phenotype data that appears to correspond to the Stanford HIV Drug Resistance Database (HIVDB).
+
+The original source and applicable usage permissions will be verified and documented.
+
+## Dataset File
+
+The original dataset is maintained locally during development and is not currently included in this public repository.
+
+## Data Organization
+
+- Original data: Preserved unchanged.
+- Processed data: Generated during preprocessing.
+- Analysis outputs: Stored separately from the original dataset.
+
+## Important Note
+
+Do not upload restricted datasets, sensitive information, or personally identifiable patient information.
+
+All dataset use and redistribution must follow the applicable source terms and permissions.
